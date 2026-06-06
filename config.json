@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "secure-fastapi-apis",
+      "title": "Secure REST APIs with FastAPI and SQLite",
+      "description": "Build an authenticated FastAPI service with persistent SQLite storage.",
+      "path": "assignments/secure-fastapi-apis",
+      "dueDate": "2026-07-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
